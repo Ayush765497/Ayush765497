@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Automation+Tester;Problem+Solver" />
+</p>
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Aspiring Software Developer | Web & Automation Enthusiast</h3>
 
