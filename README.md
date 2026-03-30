@@ -24,7 +24,24 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-darkgreen?style=for-the-badge&logo=selenium)
 
@@ -33,6 +50,7 @@
 ## 📌 Projects
 - 🎹 Digital Piano (Web Audio API)
 - 🌦️ Weather App
+- 🎬 Movie Search App
 - 🔗 More coming soon...
 
 ---
