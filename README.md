@@ -48,6 +48,7 @@
 ---
 
 ## 📌 Projects
+- 🧠 Habit Tracker
 - 🎹 Digital Piano (Web Audio API)
 - 🌦️ Weather App
 - 🎬 Movie Search App
